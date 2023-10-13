@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Astro, Cloud Computing, Deep Learning**
 
-- 📝 I regularly write articles on [https://planealab.com and https://medium.com/@francogionardo/](https://planealab.com and https://medium.com/@francogionardo/)
+- 📝 I regularly write articles on [https://planealab.com and at my Medium profile](https://planealab.com and at my Medium profile)
 
 - 💬 Ask me about **Cloud computing, deep learnig, whatever**
 
 - 📫 How to reach me **franco@planealab.com**
 
-- 📄 Know about my experiences [I´m an entrepreneur with a strong technical background. Since 2019, I've been involved in IoT projects as a Product Engineer and Project Manager. Machine Learning sparked my fascination, leading me on an exciting journey into the world of data.](I´m an entrepreneur with a strong technical background. Since 2019, I've been involved in IoT projects as a Product Engineer and Project Manager. Machine Learning sparked my fascination, leading me on an exciting journey into the world of data.)
+- 📄 Know about my experiences [Hello, I'm Franco, an entrepreneur with a strong technical and management background. My journey began in 2019, working on IoT projects as a Product Engineer and Project Manager. Machine Learning ignited my passion for data science and AI. In 2021, I ventured into technology as a tool for business opportunities, focusing on AI and predictive solutions. I'm passionate about AI's potential to shape the future](Hello, I'm Franco, an entrepreneur with a strong technical and management background. My journey began in 2019, working on IoT projects as a Product Engineer and Project Manager. Machine Learning ignited my passion for data science and AI. In 2021, I ventured into technology as a tool for business opportunities, focusing on AI and predictive solutions. I'm passionate about AI's potential to shape the future)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
