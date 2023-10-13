@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **franco@planealab.com**
 
-- 📄 Know about my experiences [Hello, I'm Franco, an entrepreneur with a strong technical and management background. My journey began in 2019, working on IoT projects as a Product Engineer and Project Manager. Machine Learning ignited my passion for data science and AI. In 2021, I ventured into technology as a tool for business opportunities, focusing on AI and predictive solutions. I'm passionate about AI's potential to shape the future](Hello, I'm Franco, an entrepreneur with a strong technical and management background. My journey began in 2019, working on IoT projects as a Product Engineer and Project Manager. Machine Learning ignited my passion for data science and AI. In 2021, I ventured into technology as a tool for business opportunities, focusing on AI and predictive solutions. I'm passionate about AI's potential to shape the future)
+- 📄 Know about me: I'm an entrepreneur with a strong technical and management background. Since 2019, I've been involved in projects related to solving problems using IoT systems, serving as a Product Engineer and Project Manager. Along my professional journey, Machine Learning has sparked my fascination, igniting my passion for data science and AI. My career journey further evolved in 2021 when I delved into technology as a powerful tool for business opportunities. Over the past year and a half, I've been dedicated to enhancing my technical skills and specializing in creating predictive solutions through Artificial Intelligence. I'm incredibly passionate about the potential of AI and its role in shaping the future.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <a href="https://fb.com/francogionardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francogionardo" height="30" width="40" /></a>
 <a href="https://instagram.com/francogionardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francogionardo" height="30" width="40" /></a>
 <a href="https://medium.com/@francogionardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@francogionardo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@francogionardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francogionardo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@francogionardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francogionardo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/francogionardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="francogionardo" height="30" width="40" /></a>
 </p>
 
