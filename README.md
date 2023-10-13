@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **franco@planealab.com**
 
-- 📄 Know about me: I'm an entrepreneur with a strong technical and management background. Since 2019, I've been involved in projects related to solving problems using IoT systems, serving as a Product Engineer and Project Manager. Along my professional journey, Machine Learning has sparked my fascination, igniting my passion for data science and AI. My career journey further evolved in 2021 when I delved into technology as a powerful tool for business opportunities. Over the past year and a half, I've been dedicated to enhancing my technical skills and specializing in creating predictive solutions through Artificial Intelligence. I'm incredibly passionate about the potential of AI and its role in shaping the future.
+- 📄 Know about me: I'm an entrepreneur with a strong technical and management background. Since 2019, I've been involved in projects related to solving problems using IoT systems, serving as a Product Engineer and Project Manager. Along my professional journey, Machine Learning has sparked my fascination, igniting my passion for data science and AI. Over the past year and a half, I've been dedicated to enhancing my technical skills and specializing in creating predictive solutions through Artificial Intelligence. I'm incredibly passionate about the potential of AI and its role in shaping the future.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
