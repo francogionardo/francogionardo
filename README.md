@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **franco@planealab.com**
 
-- I´m an entrepreneur with a strong technical background. Since 2019, I've been involved in IoT projects as a Product Engineer and Project Manager. Machine Learning sparked my fascination, leading me on an exciting journey into the world of data
+- I´m an entrepreneur with a strong technical background. Since 2019, I've been involved in IoT projects as a Product Engineer and Project Manager.
+-  Machine Learning sparked my fascination, leading me on an exciting journey into the world of data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
