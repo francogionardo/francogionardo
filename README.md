@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate Data Scientist focused o AI from Perú</h3>
 
-- 🔭 I’m currently working on [App - AI to predict floods](https://github.com/francogionardo/GeoAI)
+- 🔭 I’m currently working on [Sales Forecasting using Time Series Models](https://github.com/francogionardo/Sales_Forecasting_using_Time_Series)
 
-- 🌱 I’m currently learning **Astro, Cloud Computing, Deep Learning**
+- 🌱 I’m currently learning **Data Viz, Forecasting and Deep Learning focused on sales**
 
-- 💬 Ask me about **Cloud computing, deep learnig, whatever**
+- 💬 Ask me about **Computer Vision, NLP, Prediction models, statistic... whatever related to AI**
 
 - 📫 How to reach me **franco@planealab.com**
 
